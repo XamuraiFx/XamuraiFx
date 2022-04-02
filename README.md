@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XamuraiFx
-- 👀 I’m interested in data analysis, dApps
+- 👀 I’m interested in data analysis, dApps, NFTs
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Cosmos
 - 📫 How to reach me @xamuraifx on instagram and @fx_RD on twitter
