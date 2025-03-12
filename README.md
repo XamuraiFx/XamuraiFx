@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis, dApps, NFTs
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Cosmos
-- 📫 How to reach me @xamuraifx on instagram and @fx_RD on twitter
+- 📫 How to reach me @xamuraifx on instagram and twitter
 
 <!---
 XamuraiFx/XamuraiFx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
